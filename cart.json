@@ -1,0 +1,19 @@
+[
+    {
+        "cart_id": 1,
+        "cart_items": [
+            {
+                "product_id": 7,
+                "quantity": 2,
+                "totalPrice": 3000  
+            },
+            {
+                "product_id": 5,
+                "quantity": 2,
+                "totalPrice": 6000
+            }
+        ],
+        "totalPrice": 9000,
+        "customerId": 1
+    }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Office Desk",
+    "description": "Gray table, 3 feet wide by 4 feet long",
+    "price": 10000,
+    "currency": "KES",
+    "tags": "office, table, furniture",
+    "vatTax": true,
+    "vatTaxPercentage": 16
+  },
+  {
+    "id": 2,
+    "name": "Filing Cabinet",
+    "description": "Metal cabinet with biometric access, water proof and fire proof",
+    "price": 35000,
+    "currency": "KES",
+    "tags": "office, cabinet, biometric, fingerprint, water proof, fire proof",
+    "vatTax": true,
+    "vatTaxPercentage": 16
+  },
+  {
+    "id": 3,
+    "name": "Office chair",
+    "description": "Black chair, head rest, curved back, ergonomics",
+    "price": 7000,
+    "currency": "KES",
+    "tags": "office, chair, furniture",
+    "vatTax": true,
+    "vatTaxPercentage": 16
+  },
+  {
+    "id": 4,
+    "name": "Stapler",
+    "description": "Industrial Staedler stapler",
+    "price": 500,
+    "currency": "KES",
+    "tags": "office, organize",
+    "vatTax": false,
+    "vatTaxPercentage": 0
+  },
+  {
+    "id": 5,
+    "name": "Laptop Bag",
+    "description": "Black bag, fits 16 inch laptop, versatile",
+    "price": 3000,
+    "currency": "KES",
+    "tags": "bag, laptop",
+    "vatTax": false,
+    "vatTaxPercentage": 0
+  },
+  {
+    "id": 6,
+    "name": "Ethernet Cable",
+    "description": "5ft long multi-colored ethernet cable",
+    "price": 500,
+    "currency": "KES",
+    "tags": "office, network, ethernet",
+    "vatTax": true,
+    "vatTaxPercentage": 16
+  },
+  {
+    "id": 7,
+    "name": "A4 Papers",
+    "description": "500 rims of A4 paper",
+    "price": 1500,
+    "currency": "KES",
+    "tags": "office, paper, A4",
+    "vatTax": false,
+    "vatTaxPercentage": 0
+  },
+  {
+    "name": "2024 Diary",
+    "description": "Diary with a page for every day",
+    "price": 1200,
+    "currency": "KES",
+    "tags": "office, organize, paper",
+    "vatTax": true,
+    "vatTaxPercentage": 16,
+    "id": 8
+  }
+]

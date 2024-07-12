@@ -1,0 +1,10 @@
+[
+    {
+        "id": "order_1",
+        "productId": 1,
+        "quantity": 2,
+        "totalAmount": 100,
+        "paymentMethod": "credit_card",
+        "status": "completed"
+    }
+]
